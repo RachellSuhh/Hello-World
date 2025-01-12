@@ -25,6 +25,7 @@ img {
 
 h2 {
     color: #0e3d68;
+    font-family: "Gluten", serif;
 }
 
 h3 {
@@ -47,7 +48,8 @@ p {
   
 
 
-.gluten {font-family: "Gluten", serif;
+.gluten {
+    font-family: "Gluten", serif;
     font-optical-sizing: auto;
     font-weight: 100px;
     font-style: normal;
