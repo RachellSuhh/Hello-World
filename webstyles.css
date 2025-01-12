@@ -14,11 +14,6 @@ h1 {
     text-decoration: underline 3px;
 }
 
-.croissant-one-regular {
-    font-family: "Croissant One", serif;
-    font-weight: 400;
-    font-style: normal;
-}
 
 img {
     box-sizing: border-box;
@@ -44,3 +39,10 @@ p {
     color: #0e3d68;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.croissant-one-regular {
+    font-family: "Croissant One", serif;
+    font-weight: 400px;
+    font-style: normal;
+  }
+  
