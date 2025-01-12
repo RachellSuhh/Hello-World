@@ -46,3 +46,13 @@ p {
     font-style: normal;
   }
   
+
+
+.gluten {font-family: "Gluten", serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+    }
+  
